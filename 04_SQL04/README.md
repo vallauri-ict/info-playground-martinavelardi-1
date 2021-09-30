@@ -8,4 +8,4 @@ Creazione del database Musei.
 * Opere(__**Codice**__, Titolo, NomeM*, NomeA*)
 * Personaggi(__**Personaggio**__, __**Codice***__)
 
-👩🏻‍💻_Velardi Martina 5^B informatica_
+👩🏻‍💻 __Velardi Martina 5^B informatica__
