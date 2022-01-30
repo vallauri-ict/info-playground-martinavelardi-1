@@ -1,0 +1,1 @@
+﻿UPDATE [Auto] SET Prezzo = 999.99 WHERE Targa = 'AA111AA';
